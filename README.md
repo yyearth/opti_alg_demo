@@ -6,7 +6,7 @@
 
 ### Global Shooting
 
-![](/Users/yangyou/Desktop/opti_alg/img/glbst.jpg)
+![](img/glbst.jpg)
 
 ### NBI
 
