@@ -2,7 +2,7 @@
 
 ![example](img/example.png)
 
-![space](img/objective space.png)
+![space](img/obj_space.png)
 
 ### Global Shooting
 
